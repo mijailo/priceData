@@ -1,0 +1,323 @@
+symbol,longname,shortname,sector,industry,exchange,score
+AAP,"Advance Auto Parts, Inc.",Advance Auto Parts Inc.,Consumer Cyclical,Specialty Retail,NYQ,3088200.0
+AMZN,"Amazon.com, Inc.","Amazon.com, Inc.",Consumer Cyclical,Internet Retail,NMS,33703000.0
+AZO,"AutoZone, Inc.","AutoZone, Inc.",Consumer Cyclical,Specialty Retail,NYQ,2373500.0
+BBY,"Best Buy Co., Inc.","Best Buy Co., Inc.",Consumer Cyclical,Specialty Retail,NYQ,2603000.0
+BKNG,Booking Holdings Inc.,Booking Holdings Inc. Common St,Consumer Cyclical,Travel Services,NMS,3343300.0
+CCL,Carnival Corporation & plc,Carnival Corporation,Consumer Cyclical,Travel Services,NYQ,7280800.0
+CMCSA,Comcast Corporation,Comcast Corporation,Communication Services,Telecom Services,NMS,3287400.0
+DHI,"D.R. Horton, Inc.","D.R. Horton, Inc.",Consumer Cyclical,Residential Construction,NYQ,2402400.0
+DISH,DISH Network Corporation,DISH Network Corporation,Communication Services,Telecom Services,NMS,4259500.0
+DLTR,"Dollar Tree, Inc.","Dollar Tree, Inc.",Consumer Defensive,Discount Stores,NMS,2301100.0
+EXPE,"Expedia Group, Inc.","Expedia Group, Inc.",Consumer Cyclical,Travel Services,NMS,2850800.0
+F,Ford Motor Company,Ford Motor Company,Consumer Cyclical,Auto Manufacturers,NYQ,21458500.0
+GPC,Genuine Parts Company,Genuine Parts Company,Consumer Cyclical,Specialty Retail,NYQ,2218300.0
+GPS,"The Gap, Inc.","Gap, Inc. (The)",Consumer Cyclical,Apparel Retail,NYQ,2539800.0
+GRMN,Garmin Ltd.,Garmin Ltd.,Technology,Scientific & Technical Instruments,NYQ,2240500.0
+HAS,"Hasbro, Inc.","Hasbro, Inc.",Consumer Cyclical,Leisure,NMS,2310400.0
+HD,"The Home Depot, Inc.","Home Depot, Inc. (The)",Consumer Cyclical,Home Improvement Retail,NYQ,5285200.0
+HOG,"Harley-Davidson, Inc.","Harley-Davidson, Inc.",Consumer Cyclical,Recreational Vehicles,NYQ,2311800.0
+IPG,"The Interpublic Group of Companies, Inc.","Interpublic Group of Companies,",Communication Services,Advertising Agencies,NYQ,2122200.0
+JWN,"Nordstrom, Inc.","Nordstrom, Inc.",Consumer Cyclical,Department Stores,NYQ,2427300.0
+KMX,"CarMax, Inc.",CarMax Inc,Consumer Cyclical,Auto & Truck Dealerships,NYQ,2259100.0
+KSS,Kohl's Corporation,Kohl's Corporation,Consumer Cyclical,Department Stores,NYQ,2868500.0
+LEG,"Leggett & Platt, Incorporated","Leggett & Platt, Incorporated",Consumer Cyclical,"Furnishings, Fixtures & Appliances",NYQ,2416900.0
+LEN,Lennar Corporation,Lennar Corporation,Consumer Cyclical,Residential Construction,NYQ,2415100.0
+LKQ,LKQ Corporation,LKQ Corporation,Consumer Cyclical,Auto Parts,NMS,2138600.0
+LOW,"Lowe's Companies, Inc.","Lowe's Companies, Inc.",Consumer Cyclical,Home Improvement Retail,NYQ,3338100.0
+M,"Macy's, Inc.",Macy's Inc,Consumer Cyclical,Department Stores,NYQ,3385200.0
+MAR,"Marriott International, Inc.",Marriott International,Consumer Cyclical,Lodging,NMS,2850300.0
+MCD,McDonald's Corporation,McDonald's Corporation,Consumer Cyclical,Restaurants,NYQ,4154300.0
+MGM,MGM Resorts International,MGM Resorts International,Consumer Cyclical,Resorts & Casinos,NYQ,2934800.0
+MHK,"Mohawk Industries, Inc.","Mohawk Industries, Inc.",Consumer Cyclical,"Furnishings, Fixtures & Appliances",NYQ,2076700.0
+NKE,"NIKE, Inc.","Nike, Inc.",Consumer Cyclical,Footwear & Accessories,NYQ,4089200.0
+NWL,Newell Brands Inc.,Newell Brands Inc.,Consumer Defensive,Household & Personal Products,NMS,2475900.0
+OMC,Omnicom Group Inc.,Omnicom Group Inc.,Communication Services,Advertising Agencies,NYQ,2154600.0
+ORLY,"O'Reilly Automotive, Inc.","O'Reilly Automotive, Inc.",Consumer Cyclical,Specialty Retail,NMS,2317900.0
+PHM,"PulteGroup, Inc.","PulteGroup, Inc.",Consumer Cyclical,Residential Construction,NYQ,2408100.0
+PVH,PVH Corp.,PVH Corp.,Consumer Cyclical,Apparel Manufacturing,NYQ,2168500.0
+RL,Ralph Lauren Corporation,Ralph Lauren Corporation,Consumer Cyclical,Apparel Manufacturing,NYQ,2952300.0
+ROST,"Ross Stores, Inc.","Ross Stores, Inc.",Consumer Cyclical,Apparel Retail,NMS,2177900.0
+SBUX,Starbucks Corporation,Starbucks Corporation,Consumer Cyclical,Restaurants,NMS,4435300.0
+SWK,"Stanley Black & Decker, Inc.","Stanley Black & Decker, Inc.",Industrials,Tools & Accessories,NYQ,2577100.0
+TGT,Target Corporation,Target Corporation,Consumer Defensive,Discount Stores,NYQ,6420900.0
+TJX,"The TJX Companies, Inc.","TJX Companies, Inc. (The)",Consumer Cyclical,Apparel Retail,NYQ,2549400.0
+TPR,"Tapestry, Inc.","Tapestry, Inc.",Consumer Cyclical,Luxury Goods,NYQ,8526200.0
+UAA,"Under Armour, Inc.","Under Armour, Inc.",Consumer Cyclical,Apparel Manufacturing,NYQ,2751400.0
+VFC,V.F. Corporation,V.F. Corporation,Consumer Cyclical,Apparel Manufacturing,NYQ,4122500.0
+WHR,Whirlpool Corporation,Whirlpool Corporation,Consumer Cyclical,"Furnishings, Fixtures & Appliances",NYQ,2405700.0
+WYNN,"Wynn Resorts, Limited","Wynn Resorts, Limited",Consumer Cyclical,Resorts & Casinos,NMS,5252100.0
+YUM,"Yum! Brands, Inc.","Yum! Brands, Inc.",Consumer Cyclical,Restaurants,NYQ,2368400.0
+ADM,Archer-Daniels-Midland Company,Archer-Daniels-Midland Company,Consumer Defensive,Farm Products,NYQ,2761400.0
+CAG,"Conagra Brands, Inc.","ConAgra Brands, Inc.",Consumer Defensive,Packaged Foods,NYQ,2903500.0
+CHD,"Church & Dwight Co., Inc.","Church & Dwight Company, Inc.",Consumer Defensive,Household & Personal Products,NYQ,2178500.0
+CL,Colgate-Palmolive Company,Colgate-Palmolive Company,Consumer Defensive,Household & Personal Products,NYQ,2512100.0
+CLX,The Clorox Company,Clorox Company (The),Consumer Defensive,Household & Personal Products,NYQ,2472000.0
+COST,Costco Wholesale Corporation,Costco Wholesale Corporation,Consumer Defensive,Discount Stores,NMS,5713800.0
+CPB,Campbell Soup Company,Campbell Soup Company,Consumer Defensive,Packaged Foods,NYQ,3058800.0
+CVS,CVS Health Corporation,CVS Health Corporation,Healthcare,Healthcare Plans,NYQ,5309600.0
+EL,The Estée Lauder Companies Inc.,"Estee Lauder Companies, Inc. (T",Consumer Defensive,Household & Personal Products,NYQ,3452000.0
+GIS,"General Mills, Inc.","General Mills, Inc.",Consumer Defensive,Packaged Foods,NYQ,3167200.0
+HRL,Hormel Foods Corporation,Hormel Foods Corporation,Consumer Defensive,Packaged Foods,NYQ,2434200.0
+HSY,The Hershey Company,The Hershey Company,Consumer Defensive,Confectioners,NYQ,2747400.0
+K,Kellogg Company,Kellogg Company,Consumer Defensive,Packaged Foods,NYQ,4082900.0
+KMB,Kimberly-Clark Corporation,Kimberly-Clark Corporation,Consumer Defensive,Household & Personal Products,NYQ,2705700.0
+KO,The Coca-Cola Company,Coca-Cola Company (The),Consumer Defensive,Beverages—Non-Alcoholic,NYQ,5876400.0
+KR,The Kroger Co.,Kroger Company (The),Consumer Defensive,Grocery Stores,NYQ,2921800.0
+MDLZ,"Mondelez International, Inc.","Mondelez International, Inc.",Consumer Defensive,Confectioners,NMS,2461900.0
+MKC,"McCormick & Company, Incorporated","McCormick & Company, Incorporat",Consumer Defensive,Packaged Foods,NYQ,2165100.0
+MNST,Monster Beverage Corporation,Monster Beverage Corporation,Consumer Defensive,Beverages—Non-Alcoholic,NMS,2817100.0
+MO,"Altria Group, Inc.","Altria Group, Inc.",Consumer Defensive,Tobacco,NYQ,6294600.0
+PEP,"PepsiCo, Inc.","Pepsico, Inc.",Consumer Defensive,Beverages—Non-Alcoholic,NMS,4092900.0
+PG,The Procter & Gamble Company,Procter & Gamble Company (The),Consumer Defensive,Household & Personal Products,NYQ,4857200.0
+SJM,The J. M. Smucker Company,J.M. Smucker Company (The) New,Consumer Defensive,Packaged Foods,NYQ,2204200.0
+STZ,"Constellation Brands, Inc.","Constellation Brands, Inc.",Consumer Defensive,Beverages—Wineries & Distilleries,NYQ,2424800.0
+SYY,Sysco Corporation,Sysco Corporation,Consumer Defensive,Food Distribution,NYQ,2383600.0
+TAP,Molson Coors Beverage Company,Molson Coors Beverage Company,Consumer Defensive,Beverages—Brewers,NYQ,2463100.0
+TSN,"Tyson Foods, Inc.","Tyson Foods, Inc.",Consumer Defensive,Farm Products,NYQ,3578400.0
+WBA,"Walgreens Boots Alliance, Inc.","Walgreens Boots Alliance, Inc.",Healthcare,Pharmaceutical Retailers,NMS,4443100.0
+WMT,Walmart Inc.,Walmart Inc.,Consumer Defensive,Discount Stores,NYQ,6232300.0
+APA,APA Corporation,APA Corporation,Energy,Oil & Gas E&P,NMS,4000300.0
+COP,ConocoPhillips,ConocoPhillips,Energy,Oil & Gas E&P,NYQ,4290600.0
+CVX,Chevron Corporation,Chevron Corporation,Energy,Oil & Gas Integrated,NYQ,7736900.0
+DVN,Devon Energy Corporation,Devon Energy Corporation,Energy,Oil & Gas E&P,NYQ,8588000.0
+EOG,"EOG Resources, Inc.","EOG Resources, Inc.",Energy,Oil & Gas E&P,NYQ,3204500.0
+FTI,TechnipFMC plc,TechnipFMC plc,Energy,Oil & Gas Equipment & Services,NYQ,2177200.0
+HAL,Halliburton Company,Halliburton Company,Energy,Oil & Gas Equipment & Services,NYQ,3997300.0
+HES,Hess Corporation,Hess Corporation,Energy,Oil & Gas E&P,NYQ,2461700.0
+HP,"Helmerich & Payne, Inc.","Helmerich & Payne, Inc.",Energy,Oil & Gas Drilling,NYQ,2208900.0
+MRO,Marathon Oil Corporation,Marathon Oil Corporation,Energy,Oil & Gas E&P,NYQ,4249800.0
+NOV,NOV Inc.,NOV Inc.,Energy,Oil & Gas Equipment & Services,NYQ,2339300.0
+OKE,"ONEOK, Inc.","ONEOK, Inc.",Energy,Oil & Gas Midstream,NYQ,3958500.0
+PXD,Pioneer Natural Resources Company,Pioneer Natural Resources Compa,Energy,Oil & Gas E&P,NYQ,4979300.0
+SLB,Schlumberger Limited,Schlumberger N.V.,Energy,Oil & Gas Equipment & Services,NYQ,4786800.0
+VLO,Valero Energy Corporation,Valero Energy Corporation,Energy,Oil & Gas Refining & Marketing,NYQ,4416900.0
+WMB,"The Williams Companies, Inc.","Williams Companies, Inc. (The)",Energy,Oil & Gas Midstream,NYQ,2909300.0
+XOM,Exxon Mobil Corporation,Exxon Mobil Corporation,Energy,Oil & Gas Integrated,NYQ,14015700.0
+AFL,Aflac Incorporated,AFLAC Incorporated,Financial Services,Insurance—Life,NYQ,2365200.0
+AIG,"American International Group, Inc.","American International Group, I",Financial Services,Insurance—Diversified,NYQ,2544500.0
+AIZ,"Assurant, Inc.","Assurant, Inc.",Financial Services,Insurance—Specialty,NYQ,2088700.0
+AJG,Arthur J. Gallagher & Co.,Arthur J. Gallagher & Co.,Financial Services,Insurance Brokers,NYQ,2298500.0
+AMG,"Affiliated Managers Group, Inc.","Affiliated Managers Group, Inc.",Financial Services,Asset Management,NYQ,2054900.0
+AMP,"Ameriprise Financial, Inc.","Ameriprise Financial, Inc.",Financial Services,Asset Management,NYQ,2151900.0
+AON,Aon plc,Aon plc,Financial Services,Insurance Brokers,NYQ,2192700.0
+AXP,American Express Company,American Express Company,Financial Services,Credit Services,NYQ,3329500.0
+BAC,Bank of America Corporation,Bank of America Corporation,Financial Services,Banks—Diversified,NYQ,11426000.0
+BEN,"Franklin Resources, Inc.","Franklin Resources, Inc.",Financial Services,Asset Management,NYQ,2192200.0
+BK,The Bank of New York Mellon Corporation,The Bank of New York Mellon Cor,Financial Services,Asset Management,NYQ,2546200.0
+BLK,"BlackRock, Inc.","BlackRock, Inc.",Financial Services,Asset Management,NYQ,3387100.0
+C,Citigroup Inc.,"Citigroup, Inc.",Financial Services,Banks—Diversified,NYQ,7353400.0
+CINF,Cincinnati Financial Corporation,Cincinnati Financial Corporatio,Financial Services,Insurance—Property & Casualty,NMS,2121700.0
+CMA,Comerica Incorporated,Comerica Incorporated,Financial Services,Banks—Regional,NYQ,2687800.0
+CME,CME Group Inc.,CME Group Inc.,Financial Services,Financial Data & Stock Exchanges,NMS,2706600.0
+FITB,Fifth Third Bancorp,Fifth Third Bancorp,Financial Services,Banks—Regional,NMS,2831300.0
+GS,"The Goldman Sachs Group, Inc.","Goldman Sachs Group, Inc. (The)",Financial Services,Capital Markets,NYQ,3750800.0
+HBAN,Huntington Bancshares Incorporated,Huntington Bancshares Incorpora,Financial Services,Banks—Regional,NMS,2952000.0
+HIG,"The Hartford Financial Services Group, Inc.",Hartford Financial Services Gro,Financial Services,Insurance—Diversified,NYQ,2160400.0
+HRB,"H&R Block, Inc.","H&R Block, Inc.",Consumer Cyclical,Personal Services,NYQ,2211200.0
+ICE,"Intercontinental Exchange, Inc.",Intercontinental Exchange Inc.,Financial Services,Financial Data & Stock Exchanges,NYQ,2288100.0
+IVZ,Invesco Ltd.,Invesco Ltd,Financial Services,Asset Management,NYQ,2233300.0
+JPM,JPMorgan Chase & Co.,JP Morgan Chase & Co.,Financial Services,Banks—Diversified,NYQ,6587000.0
+KEY,KeyCorp,KeyCorp,Financial Services,Banks—Regional,NYQ,4940900.0
+L,Loews Corporation,Loews Corporation,Financial Services,Insurance—Property & Casualty,NYQ,2084900.0
+LNC,Lincoln National Corporation,Lincoln National Corporation,Financial Services,Insurance—Life,NYQ,2711300.0
+MCO,Moody's Corporation,Moody's Corporation,Financial Services,Financial Data & Stock Exchanges,NYQ,2294600.0
+MET,"MetLife, Inc.","MetLife, Inc.",Financial Services,Insurance—Life,NYQ,2587200.0
+MMC,"Marsh & McLennan Companies, Inc.","Marsh & McLennan Companies, Inc",Financial Services,Insurance Brokers,NYQ,2252000.0
+MS,Morgan Stanley,Morgan Stanley,Financial Services,Capital Markets,NYQ,3419200.0
+MTB,M&T Bank Corporation,M&T Bank Corporation,Financial Services,Banks—Regional,NYQ,3034900.0
+NDAQ,"Nasdaq, Inc.","Nasdaq, Inc.",Financial Services,Financial Data & Stock Exchanges,NMS,2559100.0
+NTRS,Northern Trust Corporation,Northern Trust Corporation,Financial Services,Asset Management,NMS,2175700.0
+PFG,"Principal Financial Group, Inc.",Principal Financial Group Inc,Financial Services,Asset Management,NMS,2186000.0
+PGR,The Progressive Corporation,Progressive Corporation (The),Financial Services,Insurance—Property & Casualty,NYQ,2273500.0
+PNC,"The PNC Financial Services Group, Inc.","PNC Financial Services Group, I",Financial Services,Banks—Regional,NYQ,3156300.0
+PRU,"Prudential Financial, Inc.","Prudential Financial, Inc.",Financial Services,Insurance—Life,NYQ,3074500.0
+O,Realty Income Corporation,Realty Income Corporation,Real Estate,REIT—Retail,NYQ,61510.0
+RF,Regions Financial Corporation,Regions Financial Corporation,Financial Services,Banks—Regional,NYQ,2655300.0
+RJF,"Raymond James Financial, Inc.","Raymond James Financial, Inc.",Financial Services,Capital Markets,NYQ,2116900.0
+SCHW,The Charles Schwab Corporation,Charles Schwab Corporation (The,Financial Services,Capital Markets,NYQ,3994500.0
+SPGI,S&P Global Inc.,S&P Global Inc.,Financial Services,Financial Data & Stock Exchanges,NYQ,2496600.0
+STT,State Street Corporation,State Street Corporation,Financial Services,Asset Management,NYQ,2427300.0
+TROW,"T. Rowe Price Group, Inc.","T. Rowe Price Group, Inc.",Financial Services,Asset Management,NMS,2577200.0
+TRV,"The Travelers Companies, Inc.","The Travelers Companies, Inc.",Financial Services,Insurance—Property & Casualty,NYQ,2333800.0
+UNM,Unum Group,Unum Group,Financial Services,Insurance—Life,NYQ,2204200.0
+USB,U.S. Bancorp,U.S. Bancorp,Financial Services,Banks—Regional,NYQ,4669200.0
+WFC,Wells Fargo & Company,Wells Fargo & Company,Financial Services,Banks—Diversified,NYQ,5442400.0
+ZION,"Zions Bancorporation, National Association",Zions Bancorporation N.A.,Financial Services,Banks—Regional,NMS,2755500.0
+A,"Agilent Technologies, Inc.","Agilent Technologies, Inc.",Healthcare,Diagnostics & Research,NYQ,2433000.0
+ABC,AmerisourceBergen Corporation,AmerisourceBergen Corporation,Healthcare,Medical Distribution,NYQ,2228800.0
+ABT,Abbott Laboratories,Abbott Laboratories,Healthcare,Medical Devices,NYQ,3470800.0
+ALGN,"Align Technology, Inc.","Align Technology, Inc.",Healthcare,Medical Devices,NMS,2350700.0
+AMGN,Amgen Inc.,Amgen Inc.,Healthcare,Drug Manufacturers—General,NMS,4652700.0
+BAX,Baxter International Inc.,Baxter International Inc.,Healthcare,Medical Instruments & Supplies,NYQ,2516000.0
+BDX,"Becton, Dickinson and Company","Becton, Dickinson and Company",Healthcare,Medical Instruments & Supplies,NYQ,2552000.0
+BIIB,Biogen Inc.,Biogen Inc.,Healthcare,Drug Manufacturers—General,NMS,2925700.0
+BMY,Bristol-Myers Squibb Company,Bristol-Myers Squibb Company,Healthcare,Drug Manufacturers—General,NYQ,4920900.0
+BSX,Boston Scientific Corporation,Boston Scientific Corporation,Healthcare,Medical Devices,NYQ,2435200.0
+CI,The Cigna Group,The Cigna Group,Healthcare,Healthcare Plans,NYQ,2805600.0
+CNC,Centene Corporation,Centene Corporation,Healthcare,Healthcare Plans,NYQ,2354200.0
+COO,"The Cooper Companies, Inc.","The Cooper Companies, Inc.",Healthcare,Medical Instruments & Supplies,NYQ,2086300.0
+DGX,Quest Diagnostics Incorporated,Quest Diagnostics Incorporated,Healthcare,Diagnostics & Research,NYQ,2161500.0
+DVA,DaVita Inc.,DaVita Inc.,Healthcare,Medical Care Facilities,NYQ,2201400.0
+EW,Edwards Lifesciences Corporation,Edwards Lifesciences Corporatio,Healthcare,Medical Devices,NYQ,2578500.0
+GILD,"Gilead Sciences, Inc.","Gilead Sciences, Inc.",Healthcare,Drug Manufacturers—General,NMS,4047700.0
+HOLX,"Hologic, Inc.","Hologic, Inc.",Healthcare,Medical Instruments & Supplies,NMS,2120500.0
+HSIC,"Henry Schein, Inc.","Henry Schein, Inc.",Healthcare,Medical Distribution,NMS,2098300.0
+HUM,Humana Inc.,Humana Inc.,Healthcare,Healthcare Plans,NYQ,2787800.0
+IDXX,"IDEXX Laboratories, Inc.","IDEXX Laboratories, Inc.",Healthcare,Diagnostics & Research,NMS,2279100.0
+ILMN,"Illumina, Inc.","Illumina, Inc.",Healthcare,Diagnostics & Research,NMS,5651100.0
+INCY,Incyte Corporation,Incyte Corporation,Healthcare,Biotechnology,NMS,2444900.0
+ISRG,"Intuitive Surgical, Inc.","Intuitive Surgical, Inc.",Healthcare,Medical Instruments & Supplies,NMS,3342300.0
+JNJ,Johnson & Johnson,Johnson & Johnson,Healthcare,Drug Manufacturers—General,NYQ,12796600.0
+LH,Laboratory Corporation of America Holdings,Laboratory Corporation of Ameri,Healthcare,Diagnostics & Research,NYQ,2186000.0
+LLY,Eli Lilly and Company,Eli Lilly and Company,Healthcare,Drug Manufacturers—General,NYQ,17469400.0
+MDT,Medtronic plc,Medtronic plc.,Healthcare,Medical Devices,NYQ,3649900.0
+MRK,"Merck & Co., Inc.","Merck & Company, Inc.",Healthcare,Drug Manufacturers—General,NYQ,4464600.0
+MTD,Mettler-Toledo International Inc.,"Mettler-Toledo International, I",Healthcare,Diagnostics & Research,NYQ,2095400.0
+PFE,Pfizer Inc.,"Pfizer, Inc.",Healthcare,Drug Manufacturers—General,NYQ,11461800.0
+PRGO,Perrigo Company plc,Perrigo Company plc,Healthcare,Drug Manufacturers—Specialty & Generic,NYQ,2454300.0
+REGN,"Regeneron Pharmaceuticals, Inc.","Regeneron Pharmaceuticals, Inc.",Healthcare,Biotechnology,NMS,3300300.0
+RMD,ResMed Inc.,ResMed Inc.,Healthcare,Medical Instruments & Supplies,NYQ,2544800.0
+SYK,Stryker Corporation,Stryker Corporation,Healthcare,Medical Devices,NYQ,2545000.0
+TMO,Thermo Fisher Scientific Inc.,Thermo Fisher Scientific Inc,Healthcare,Diagnostics & Research,NYQ,2774700.0
+UHS,"Universal Health Services, Inc.","Universal Health Services, Inc.",Healthcare,Medical Care Facilities,NYQ,2104700.0
+UNH,UnitedHealth Group Incorporated,UnitedHealth Group Incorporated,Healthcare,Healthcare Plans,NYQ,4706800.0
+VRTX,Vertex Pharmaceuticals Incorporated,Vertex Pharmaceuticals Incorpor,Healthcare,Biotechnology,NMS,3270100.0
+WAT,Waters Corporation,Waters Corporation,Healthcare,Diagnostics & Research,NYQ,2140400.0
+XRAY,DENTSPLY SIRONA Inc.,DENTSPLY SIRONA Inc.,Healthcare,Medical Instruments & Supplies,NMS,2089000.0
+ZBH,"Zimmer Biomet Holdings, Inc.","Zimmer Biomet Holdings, Inc.",Healthcare,Medical Devices,NYQ,2221500.0
+AAL,American Airlines Group Inc.,"American Airlines Group, Inc.",Industrials,Airlines,NMS,5318700.0
+ALK,"Alaska Air Group, Inc.","Alaska Air Group, Inc.",Industrials,Airlines,NYQ,2618600.0
+AME,"AMETEK, Inc.","AMETEK, Inc.",Industrials,Specialty Industrial Machinery,NYQ,2148000.0
+AOS,A. O. Smith Corporation,A.O. Smith Corporation,Industrials,Specialty Industrial Machinery,NYQ,2144000.0
+BA,The Boeing Company,Boeing Company (The),Industrials,Aerospace & Defense,NYQ,11522800.0
+CAT,Caterpillar Inc.,"Caterpillar, Inc.",Industrials,Farm & Heavy Construction Machinery,NYQ,5325900.0
+CHRW,"C.H. Robinson Worldwide, Inc.","C.H. Robinson Worldwide, Inc.",Industrials,Integrated Freight & Logistics,NMS,2131000.0
+CMI,Cummins Inc.,Cummins Inc.,Industrials,Specialty Industrial Machinery,NYQ,2685600.0
+CSX,CSX Corporation,CSX Corporation,Industrials,Railroads,NMS,2638700.0
+CTAS,Cintas Corporation,Cintas Corporation,Industrials,Specialty Business Services,NMS,2219100.0
+DE,Deere & Company,Deere & Company,Industrials,Farm & Heavy Construction Machinery,NYQ,3817600.0
+DOV,Dover Corporation,Dover Corporation,Industrials,Specialty Industrial Machinery,NYQ,2148100.0
+EFX,Equifax Inc.,"Equifax, Inc.",Industrials,Consulting Services,NYQ,2138100.0
+EMR,Emerson Electric Co.,Emerson Electric Company,Industrials,Specialty Industrial Machinery,NYQ,2701300.0
+ETN,Eaton Corporation plc,"Eaton Corporation, PLC",Industrials,Specialty Industrial Machinery,NYQ,2561900.0
+EXPD,"Expeditors International of Washington, Inc.",Expeditors International of Was,Industrials,Integrated Freight & Logistics,NMS,2267900.0
+FAST,Fastenal Company,Fastenal Company,Industrials,Industrial Distribution,NMS,2250800.0
+FDX,FedEx Corporation,FedEx Corporation,Industrials,Integrated Freight & Logistics,NYQ,3356000.0
+FLS,Flowserve Corporation,Flowserve Corporation,Industrials,Specialty Industrial Machinery,NYQ,2074100.0
+GD,General Dynamics Corporation,General Dynamics Corporation,Industrials,Aerospace & Defense,NYQ,2926600.0
+GE,General Electric Company,General Electric Company,Industrials,Specialty Industrial Machinery,NYQ,6547700.0
+GWW,"W.W. Grainger, Inc.","W.W. Grainger, Inc.",Industrials,Industrial Distribution,NYQ,2240100.0
+ITW,Illinois Tool Works Inc.,Illinois Tool Works Inc.,Industrials,Specialty Industrial Machinery,NYQ,2813100.0
+JBHT,"J.B. Hunt Transport Services, Inc.","J.B. Hunt Transport Services, I",Industrials,Integrated Freight & Logistics,NMS,2137000.0
+JCI,Johnson Controls International plc,Johnson Controls International ,Industrials,Building Products & Equipment,NYQ,2463300.0
+LMT,Lockheed Martin Corporation,Lockheed Martin Corporation,Industrials,Aerospace & Defense,NYQ,4619200.0
+LUV,Southwest Airlines Co.,Southwest Airlines Company,Industrials,Airlines,NYQ,3511600.0
+MAS,Masco Corporation,Masco Corporation,Industrials,Building Products & Equipment,NYQ,2083400.0
+NOC,Northrop Grumman Corporation,Northrop Grumman Corporation,Industrials,Aerospace & Defense,NYQ,3276700.0
+NSC,Norfolk Southern Corporation,Norfolk Southern Corporation,Industrials,Railroads,NYQ,2373500.0
+PCAR,PACCAR Inc,PACCAR Inc.,Industrials,Farm & Heavy Construction Machinery,NMS,2277400.0
+PH,Parker-Hannifin Corporation,Parker-Hannifin Corporation,Industrials,Specialty Industrial Machinery,NYQ,2598800.0
+PNR,Pentair plc,Pentair plc.,Industrials,Specialty Industrial Machinery,NYQ,2138400.0
+PWR,"Quanta Services, Inc.","Quanta Services, Inc.",Industrials,Engineering & Construction,NYQ,2346000.0
+RHI,Robert Half Inc.,Robert Half Inc.,Industrials,Staffing & Employment Services,NYQ,2089300.0
+ROK,"Rockwell Automation, Inc.","Rockwell Automation, Inc.",Industrials,Specialty Industrial Machinery,NYQ,2570700.0
+ROP,"Roper Technologies, Inc.","Roper Technologies, Inc.",Technology,Software—Application,NMS,2189800.0
+RSG,"Republic Services, Inc.","Republic Services, Inc.",Industrials,Waste Management,NYQ,2211800.0
+TXT,Textron Inc.,Textron Inc.,Industrials,Aerospace & Defense,NYQ,2305500.0
+UNP,Union Pacific Corporation,Union Pacific Corporation,Industrials,Railroads,NYQ,2702400.0
+UPS,"United Parcel Service, Inc.","United Parcel Service, Inc.",Industrials,Integrated Freight & Logistics,NYQ,6376000.0
+URI,"United Rentals, Inc.","United Rentals, Inc.",Industrials,Rental & Leasing Services,NYQ,2577300.0
+WM,"Waste Management, Inc.","Waste Management, Inc.",Industrials,Waste Management,NYQ,2761600.0
+AAPL,Apple Inc.,Apple Inc.,Technology,Consumer Electronics,NMS,58382700.0
+ACN,Accenture plc,Accenture plc,Technology,Information Technology Services,NYQ,2785100.0
+ADBE,Adobe Inc.,Adobe Inc.,Technology,Software—Infrastructure,NMS,4560400.0
+ADI,"Analog Devices, Inc.","Analog Devices, Inc.",Technology,Semiconductors,NMS,2548300.0
+ADP,"Automatic Data Processing, Inc.","Automatic Data Processing, Inc.",Industrials,Staffing & Employment Services,NMS,2465100.0
+ADSK,"Autodesk, Inc.","Autodesk, Inc.",Technology,Software—Application,NMS,2461800.0
+AKAM,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",Technology,Software—Infrastructure,NMS,4052800.0
+AMAT,"Applied Materials, Inc.","Applied Materials, Inc.",Technology,Semiconductor Equipment & Materials,NMS,4115700.0
+AMD,"Advanced Micro Devices, Inc.","Advanced Micro Devices, Inc.",Technology,Semiconductors,NMS,26763200.0
+ANSS,"ANSYS, Inc.","ANSYS, Inc.",Technology,Software—Application,NMS,2212300.0
+APH,Amphenol Corporation,Amphenol Corporation,Technology,Electronic Components,NYQ,2196500.0
+ATVI,"Activision Blizzard, Inc.","Activision Blizzard, Inc",Communication Services,Electronic Gaming & Multimedia,NMS,3553700.0
+CDNS,"Cadence Design Systems, Inc.","Cadence Design Systems, Inc.",Technology,Software—Application,NMS,2889000.0
+CRM,"Salesforce, Inc.","Salesforce, Inc.",Technology,Software—Application,NYQ,5197200.0
+CSCO,"Cisco Systems, Inc.","Cisco Systems, Inc.",Technology,Communication Equipment,NMS,5925600.0
+CTSH,Cognizant Technology Solutions Corporation,Cognizant Technology Solutions ,Technology,Information Technology Services,NMS,2309100.0
+DXC,DXC Technology Company,DXC Technology Company,Technology,Information Technology Services,NYQ,2645400.0
+EA,Electronic Arts Inc.,Electronic Arts Inc.,Communication Services,Electronic Gaming & Multimedia,NMS,2359900.0
+EBAY,eBay Inc.,eBay Inc.,Consumer Cyclical,Internet Retail,NMS,2431400.0
+FFIV,"F5, Inc.","F5, Inc.",Technology,Software—Infrastructure,NMS,2168900.0
+FIS,"Fidelity National Information Services, Inc.",Fidelity National Information S,Technology,Information Technology Services,NYQ,2581400.0
+GLW,Corning Incorporated,Corning Incorporated,Technology,Electronic Components,NYQ,2619300.0
+GOOG,Alphabet Inc.,Alphabet Inc.,Communication Services,Internet Content & Information,NMS,13711900.0
+GOOGL,Alphabet Inc.,Alphabet Inc.,Communication Services,Internet Content & Information,NMS,9094100.0
+GPN,Global Payments Inc.,Global Payments Inc.,Industrials,Specialty Business Services,NYQ,2490500.0
+HPQ,HP Inc.,HP Inc.,Technology,Computer Hardware,NYQ,2862400.0
+IBM,International Business Machines Corporation,International Business Machines,Technology,Information Technology Services,NYQ,7368800.0
+INTC,Intel Corporation,Intel Corporation,Technology,Semiconductors,NMS,13064600.0
+INTU,Intuit Inc.,Intuit Inc.,Technology,Software—Application,NMS,2567400.0
+IT,"Gartner, Inc.","Gartner, Inc.",Technology,Information Technology Services,NYQ,2106200.0
+JNPR,"Juniper Networks, Inc.","Juniper Networks, Inc.",Technology,Communication Equipment,NYQ,2513000.0
+KLAC,KLA Corporation,KLA Corporation,Technology,Semiconductor Equipment & Materials,NMS,2680000.0
+LRCX,Lam Research Corporation,Lam Research Corporation,Technology,Semiconductor Equipment & Materials,NMS,3511600.0
+MCHP,Microchip Technology Incorporated,Microchip Technology Incorporat,Technology,Semiconductors,NMS,2785300.0
+MSFT,Microsoft Corporation,Microsoft Corporation,Technology,Software—Infrastructure,NMS,25225100.0
+MSI,"Motorola Solutions, Inc.","Motorola Solutions, Inc.",Technology,Communication Equipment,NYQ,2410200.0
+MU,"Micron Technology, Inc.","Micron Technology, Inc.",Technology,Semiconductors,NMS,6156900.0
+NFLX,"Netflix, Inc.","Netflix, Inc.",Communication Services,Entertainment,NMS,8708000.0
+NTAP,"NetApp, Inc.","NetApp, Inc.",Technology,Computer Hardware,NMS,2245300.0
+NVDA,NVIDIA Corporation,NVIDIA Corporation,Technology,Semiconductors,NMS,98451400.0
+ORCL,Oracle Corporation,Oracle Corporation,Technology,Software—Infrastructure,NYQ,5095300.0
+PAYX,"Paychex, Inc.","Paychex, Inc.",Industrials,Staffing & Employment Services,NMS,2203400.0
+QCOM,QUALCOMM Incorporated,QUALCOMM Incorporated,Technology,Semiconductors,NMS,7832800.0
+SNPS,"Synopsys, Inc.","Synopsys, Inc.",Technology,Software—Infrastructure,NMS,2658700.0
+STX,Seagate Technology Holdings plc,Seagate Technology Holdings PLC,Technology,Computer Hardware,NMS,2571700.0
+SWKS,"Skyworks Solutions, Inc.","Skyworks Solutions, Inc.",Technology,Semiconductors,NMS,2864600.0
+TTWO,"Take-Two Interactive Software, Inc.","Take-Two Interactive Software, ",Communication Services,Electronic Gaming & Multimedia,NMS,3504900.0
+TXN,Texas Instruments Incorporated,Texas Instruments Incorporated,Technology,Semiconductors,NMS,3326600.0
+VRSN,"VeriSign, Inc.","VeriSign, Inc.",Technology,Software—Infrastructure,NMS,2189900.0
+WDC,Western Digital Corporation,Western Digital Corporation,Technology,Computer Hardware,NMS,3081500.0
+APD,"Air Products and Chemicals, Inc.","Air Products and Chemicals, Inc",Basic Materials,Specialty Chemicals,NYQ,2680300.0
+AVY,Avery Dennison Corporation,Avery Dennison Corporation,Consumer Cyclical,Packaging & Containers,NYQ,2075100.0
+CF,"CF Industries Holdings, Inc.","CF Industries Holdings, Inc.",Basic Materials,Agricultural Inputs,NYQ,2802400.0
+ECL,Ecolab Inc.,Ecolab Inc.,Basic Materials,Specialty Chemicals,NYQ,2234600.0
+FCX,Freeport-McMoRan Inc.,"Freeport-McMoRan, Inc.",Basic Materials,Copper,NYQ,4000100.0
+FMC,FMC Corporation,FMC Corporation,Basic Materials,Agricultural Inputs,NYQ,2644100.0
+IFF,International Flavors & Fragrances Inc.,International Flavors & Fragran,Basic Materials,Specialty Chemicals,NYQ,4850800.0
+IP,International Paper Company,International Paper Company,Consumer Cyclical,Packaging & Containers,NYQ,2721800.0
+MOS,The Mosaic Company,Mosaic Company (The),Basic Materials,Agricultural Inputs,NYQ,2879300.0
+NEM,Newmont Corporation,Newmont Corporation,Basic Materials,Gold,NYQ,4220800.0
+NUE,Nucor Corporation,Nucor Corporation,Basic Materials,Steel,NYQ,2984000.0
+PKG,Packaging Corporation of America,Packaging Corporation of Americ,Consumer Cyclical,Packaging & Containers,NYQ,2127500.0
+PPG,"PPG Industries, Inc.","PPG Industries, Inc.",Basic Materials,Specialty Chemicals,NYQ,2286800.0
+SEE,Sealed Air Corporation,Sealed Air Corporation,Consumer Cyclical,Packaging & Containers,NYQ,2412600.0
+SHW,The Sherwin-Williams Company,Sherwin-Williams Company (The),Basic Materials,Specialty Chemicals,NYQ,2507800.0
+VMC,Vulcan Materials Company,Vulcan Materials Company (Holdi,Basic Materials,Building Materials,NYQ,2187300.0
+T,AT&T Inc.,AT&T Inc.,Communication Services,Telecom Services,NYQ,15603200.0
+VZ,Verizon Communications Inc.,Verizon Communications Inc.,Communication Services,Telecom Services,NYQ,13635200.0
+AEE,Ameren Corporation,Ameren Corporation,Utilities,Utilities—Regulated Electric,NYQ,2218200.0
+AEP,"American Electric Power Company, Inc.",American Electric Power Company,Utilities,Utilities—Regulated Electric,NMS,3046700.0
+AES,The AES Corporation,The AES Corporation,Utilities,Utilities—Diversified,NYQ,2332500.0
+CMS,CMS Energy Corporation,CMS Energy Corporation,Utilities,Utilities—Regulated Electric,NYQ,2121900.0
+CNP,"CenterPoint Energy, Inc.","CenterPoint Energy, Inc (Holdin",Utilities,Utilities—Regulated Electric,NYQ,2154000.0
+D,"Dominion Energy, Inc.","Dominion Energy, Inc.",Utilities,Utilities—Regulated Electric,NYQ,3616500.0
+DTE,DTE Energy Company,DTE Energy Company,Utilities,Utilities—Regulated Electric,NYQ,2225800.0
+DUK,Duke Energy Corporation,Duke Energy Corporation (Holdin,Utilities,Utilities—Regulated Electric,NYQ,3848900.0
+ED,"Consolidated Edison, Inc.","Consolidated Edison, Inc.",Utilities,Utilities—Regulated Electric,NYQ,2521700.0
+EIX,Edison International,Edison International,Utilities,Utilities—Regulated Electric,NYQ,2175900.0
+ES,Eversource Energy,Eversource Energy (D/B/A),Utilities,Utilities—Regulated Electric,NYQ,2279700.0
+ETR,Entergy Corporation,Entergy Corporation,Utilities,Utilities—Regulated Electric,NYQ,2328000.0
+EXC,Exelon Corporation,Exelon Corporation,Utilities,Utilities—Regulated Electric,NMS,2398800.0
+FE,FirstEnergy Corp.,FirstEnergy Corp.,Utilities,Utilities—Regulated Electric,NYQ,2400300.0
+LNT,Alliant Energy Corporation,Alliant Energy Corporation,Utilities,Utilities—Regulated Electric,NMS,2123900.0
+NEE,"NextEra Energy, Inc.","NextEra Energy, Inc.",Utilities,Utilities—Regulated Electric,NYQ,5130900.0
+NI,NiSource Inc.,NiSource Inc,Utilities,Utilities—Regulated Gas,NYQ,2158700.0
+NRG,"NRG Energy, Inc.","NRG Energy, Inc.",Utilities,Utilities—Independent Power Producers,NYQ,2433100.0
+PEG,Public Service Enterprise Group Incorporated,Public Service Enterprise Group,Utilities,Utilities—Regulated Electric,NYQ,2278600.0
+PNW,Pinnacle West Capital Corporation,Pinnacle West Capital Corporati,Utilities,Utilities—Regulated Electric,NYQ,2146300.0
+SO,The Southern Company,Southern Company (The),Utilities,Utilities—Regulated Electric,NYQ,3205000.0
+SRE,Sempra,DBA Sempra,Utilities,Utilities—Diversified,NYQ,2341400.0
+WEC,"WEC Energy Group, Inc.","WEC Energy Group, Inc.",Utilities,Utilities—Regulated Electric,NYQ,2276000.0
+XEL,Xcel Energy Inc.,Xcel Energy Inc.,Utilities,Utilities—Regulated Electric,NMS,2365600.0
